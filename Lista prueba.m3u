@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="I713.65729.schedulesdirect.org" tvg-name="CHILE | Canal 13 HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/canal13.jpg" group-title="CHILE",CHILE | Canal 13 HD
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/316
+
+#EXTINF:-1 tvg-id="I714.104614.schedulesdirect.org" tvg-name="CHILE | Canal 24 Horas" tvg-logo="https://lisa.zapping.live/uploads/canales/color/24horas.jpg" group-title="CHILE",CHILE | Canal 24 Horas
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/308
+
+#EXTINF:-1 tvg-id="I711.76008.schedulesdirect.org" tvg-name="CHILE | Chilevision HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/chv.jpg" group-title="CHILE",CHILE | Chilevision HD
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/318
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Etc Tv" tvg-logo="https://lisa.zapping.live/uploads/canales/color/etc.jpg" group-title="CHILE",CHILE | Etc Tv
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/314
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Etc TV" tvg-logo="https://lisa.zapping.live/uploads/canales/color/etc.jpg" group-title="CHILE",CHILE | Etc TV
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/315
+
+#EXTINF:-1 tvg-id="I17.17422.schedulesdirect.org" tvg-name="CHILE | La Red HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/lared.jpg" group-title="CHILE",CHILE | La Red HD
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/319
+
+#EXTINF:-1 tvg-id="I20.16527.schedulesdirect.org" tvg-name="CHILE | Mega HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/mega.jpg" group-title="CHILE",CHILE | Mega HD
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/321
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Mega Internacional" tvg-logo="" group-title="CHILE",CHILE | Mega Internacional
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/309
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | MegaPlus" tvg-logo="" group-title="CHILE",CHILE | MegaPlus
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/77204
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Rec TV" tvg-logo="https://lisa.zapping.live/uploads/canales/color/rec.jpg" group-title="CHILE",CHILE | Rec TV
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/323
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CDF | CDF HD OP1" tvg-logo="" group-title="PLAN CDF",CDF | CDF HD OP1
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/68754
+#EXTINF:-1 tvg-id="" tvg-name="CDF | CDF HD OP2" tvg-logo="" group-title="PLAN CDF",CDF | CDF HD OP2
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/68755
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF FHD" tvg-logo="" group-title="PLAN CDF",CL | CDF FHD
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/331
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF FHD*" tvg-logo="" group-title="PLAN CDF",CL | CDF FHD*
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/332
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | Estadio CDF" tvg-logo="" group-title="PLAN CDF",CL | Estadio CDF
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/340
+#EXTINF:-1 tvg-id="" tvg-name="CL | Estadio CDF HD" tvg-logo="" group-title="PLAN CDF",CL | Estadio CDF HD
+http://ultraplay.org:80/Pdjr773he/Hdhd7e7bdk/339
+
